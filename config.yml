@@ -4,6 +4,7 @@ baseURL: "https://frm1789.github.io/"
 title: "Hugo Book"
 theme: "book"
 disableKinds: ["taxonomy", "taxonomyTerm"]
+publishdir:"frm1789.github.io"
 # themesDir: ../..
 
 # Book configuration
