@@ -1,6 +1,6 @@
 # hugo server --themesDir ... --baseURL=https://frm1789.github.io/ExamplesGtPackage/
 
-baseURL: "https://frm1789.github.io/ExamplesGtPackage/"
+baseURL: "https://frm1789.github.io/"
 title: "Hugo Book"
 theme: "book"
 disableKinds: ["taxonomy", "taxonomyTerm"]
